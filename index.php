@@ -37,10 +37,9 @@
 <font size="15">
 <h3><strong>Our honorable Subject teachers:</strong></h3>
 </font>
-</center>
-<center>
 <img src="teachers.jpg">
-</center>
+	</center>
+
 
 
 
