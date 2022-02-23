@@ -61,8 +61,8 @@
 <p style="text-align: center;"><a 
 href="https://caeg11.herokuapp.com">
 <font face="arial" size="20" color="#874BAD">
-CLICK HERE TO ACCESS! </center></font>
-
+CLICK HERE TO ACCESS! 
+</a>
 
 
 <p style="text-align: center;">&nbsp;</p>
@@ -73,8 +73,8 @@ CLICK HERE TO ACCESS! </center></font>
 <p style="text-align: center;"><a 
 href="https://cleg11.herokuapp.com">
 <font face="arial" size="20" color="#874BAD">
-CLICK HERE TO ACCESS! </center></font>
-
+CLICK HERE TO ACCESS! 
+</a>
 
 
 
@@ -87,7 +87,7 @@ CLICK HERE TO ACCESS! </center></font>
  href="https://mathg11.herokuapp.com">
 <font face="arial" size="20" color="#874BAD">
 CLICK HERE TO ACCESS! </center></font>
-
+</a>
 
 
 
