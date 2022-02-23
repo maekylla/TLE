@@ -58,7 +58,7 @@
 
 <p style="text-align: center;"><a 
 href="https://caeg11.herokuapp.com">
-<font face="arial" size="20" color="#874BAD">
+<font face="arial" size="15" color="#874BAD">
 CLICK HERE TO ACCESS! 
 </a>
 
