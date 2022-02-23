@@ -62,8 +62,9 @@ href="https://caeg11.herokuapp.com">
 CLICK HERE TO ACCESS! 
 </a>
 
+<font face="arial" size="20">
 <h1><span style="background-color: #cc99ff; color: #993366;">CLE:</span></h1>
-
+</font>
 
 <p style="text-align: center;"><a 
 href="https://cleg11.herokuapp.com">
@@ -71,9 +72,9 @@ href="https://cleg11.herokuapp.com">
 CLICK HERE TO ACCESS! 
 </a>
 
-
+<font face="arial" size="20">
 <h1><span style="background-color: #cc99ff; color: #993366;">MATH:</span></h1>
-
+</font>
 
 
 <p style="text-align: center;"><a
